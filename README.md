@@ -1,3 +1,3 @@
 # Hometown
 
-This is a project i created in through Scrimba
+This is a project i created through Scrimba
